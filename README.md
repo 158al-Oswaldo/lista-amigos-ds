@@ -36,16 +36,11 @@ Sistema de cadastro de amigos (CRUD) com autenticação de usuário via login e 
 | `principal.php` | Página inicial após login (CRUD de amigos) |
 | `cabecalho.php` / `rodape.php` | Cabeçalho e rodapé reutilizados nas páginas |
 
-## Banco de dados
-
-Tabela `usuario`:
-- id (chave primária, auto incremento)
-- nome
-- senha
-
 ## Como executar
 
 1. Configure um servidor local com suporte a PHP e MySQL (ex: USBWebServer, XAMPP).
 2. Importe o banco de dados fornecido na pasta do projeto.
 3. Ajuste os dados de conexão em `conexaoBD.php`, se necessário.
 4. Acesse `index.php` pelo navegador e faça login.
+
+Link da apresentação no Canva: https://canva.link/6kn58ujk7pxxpry
